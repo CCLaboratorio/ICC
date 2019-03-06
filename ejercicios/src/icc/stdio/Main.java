@@ -7,6 +7,8 @@ import java.util.Scanner;
  * Clase para ejemplificar el uso de entrada y salida estándar, para
  * poner en práctica la implementación de una solución a un problema
  * a partir de un diagrama de flujo.
+ * @autho Leonardo Gallo
+ * @version 05/03/2019
  *
  */
 public class Main {
