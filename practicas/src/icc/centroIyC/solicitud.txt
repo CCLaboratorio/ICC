@@ -1,0 +1,6 @@
+#ovulo casta oficio
+123 epsilon minero
+432 gamma piloto
+1244 alfa cientifico
+433 epsilon herrero
+*
